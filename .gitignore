@@ -1,0 +1,8 @@
+*
+!/app
+!/be
+!/.gitignore
+!/eslint.config.mjs
+!/manifest.json
+!/package.json
+!/readme.md
