@@ -1,6 +1,7 @@
 *
 !/app
 !/be
+!/.editorconfig
 !/.gitignore
 !/eslint.config.mjs
 !/manifest.json
