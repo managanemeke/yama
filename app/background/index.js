@@ -16,6 +16,9 @@ chrome.webRequest.onBeforeRequest.addListener(
     );
   },
   {
-    urls: ["https://*.storage.yandex.net/get-mp3/*"],
+    urls: [
+      "https://*.storage.yandex.net/get-mp3/*",
+      "https://*.strm.yandex.net/*",
+    ],
   }
 );
